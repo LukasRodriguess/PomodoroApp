@@ -1,0 +1,17 @@
+F:\000 - Programação\C#\Projetos\PomodoroApp\bin\Debug\net6.0-windows\PomodoroApp.exe
+F:\000 - Programação\C#\Projetos\PomodoroApp\bin\Debug\net6.0-windows\PomodoroApp.deps.json
+F:\000 - Programação\C#\Projetos\PomodoroApp\bin\Debug\net6.0-windows\PomodoroApp.runtimeconfig.json
+F:\000 - Programação\C#\Projetos\PomodoroApp\bin\Debug\net6.0-windows\PomodoroApp.dll
+F:\000 - Programação\C#\Projetos\PomodoroApp\bin\Debug\net6.0-windows\PomodoroApp.pdb
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.csproj.AssemblyReference.cache
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.MainForm.resources
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.csproj.GenerateResource.cache
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.AssemblyInfoInputs.cache
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.AssemblyInfo.cs
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.csproj.CoreCompileInputs.cache
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.dll
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\refint\PomodoroApp.dll
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.pdb
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\PomodoroApp.genruntimeconfig.cache
+F:\000 - Programação\C#\Projetos\PomodoroApp\obj\Debug\net6.0-windows\ref\PomodoroApp.dll
