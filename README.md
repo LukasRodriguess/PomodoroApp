@@ -1,11 +1,6 @@
 # PomodoroApp
 update 1.0
 
-# PomodoroApp
-update 1.0
-
-# PomodoroApp
-
 ## Descrição do Projeto
 PomodoroApp é um aplicativo de cronômetro baseado na técnica de Pomodoro, uma abordagem de gerenciamento de tempo desenvolvida por Francesco Cirillo no final dos anos 1980. O aplicativo permite que os usuários dividam seu tempo em períodos de trabalho focado, chamados de "Pomodoros", intercalados com breves pausas.
 
