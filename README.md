@@ -43,7 +43,7 @@ private TimeSpan breakTime = TimeSpan.FromMinutes(10);
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você tiver alguma melhoria ou nova funcionalidade que gostaria de adicionar ao PomodoroApp, fique à vontade para abrir uma "issue" ou enviar um "pull request".
 
-##Licença
+## Licença
 Este projeto está licenciado sob a MIT License. Sinta-se livre para utilizar, modificar e distribuir o código conforme necessário.
 
 Esperamos que o PomodoroApp seja útil para melhorar sua produtividade e gerenciamento do tempo. Aproveite e bons Pomodoros!
